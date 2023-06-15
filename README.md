@@ -1,3 +1,10 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/M6zoO1u.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/sD4jUYW.png">
+  <img alt="Shows a black font text in light mode and a white font text in dark mode." src="https://i.imgur.com/sD4jUYW.png">
+</picture
+   
 #### (This fork has been created for XML users. Disable `TagRemoval` in `config.js` by setting value to `false` if you want to use a regular jailbreak.)
 
 ### Zlaude is a small server serving as an interface between SillyTavern and Claude on Slack
